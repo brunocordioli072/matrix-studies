@@ -1,4 +1,0 @@
-            Boston   Phoenix  New York
-Boston    0.000000  4.472136  6.708204
-Phoenix   4.472136  0.000000  2.236068
-New York  6.708204  2.236068  0.000000
