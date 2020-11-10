@@ -4,7 +4,6 @@ from core import MatrixUtils
 from scipy.spatial import distance
 import numpy as np
 mu = MatrixUtils()
-mu
 with open("./resources/data.json", "r") as read_file:
     data = json.load(read_file)
 
